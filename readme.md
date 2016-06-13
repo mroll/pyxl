@@ -5,6 +5,9 @@ files. I was using xlrd recently and I found the api way too verbose,
 so this is my solution. Pyxl allows indexing into excel files using
 Python list and dictionary index notation. Check below for examples.
 
+<b>Note:</b> You will need the xlrd library to run this code. xlrd is
+available through pip.
+
 # Running
 
 The only thing you should need from pyxl.py is the Pyxl class. That
